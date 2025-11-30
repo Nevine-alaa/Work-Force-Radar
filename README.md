@@ -1,4 +1,4 @@
-# Work-Force-Radar
+# WORK-FORCE RADAR: The Benefits of Mindfulness in Business
 
 Interactive Power BI dashboard for HR Analytics: analyzing employee data, attrition, salary, performance, and turnover factors.
 This dashboard offers a comprehensive overview of the company's workforce, including employee demographics, attrition patterns, salaries, and performance metrics.  
@@ -57,14 +57,6 @@ Includes columns such as:
 - GitHub
 - CSV Dataset
 
-## Project Structure
-
-/HR-Analytics
- ├─ HR Dataset - HR.csv
- ├─ HR_Analytics.pbix
- ├─ Screenshots/
- ├─ README.md
-
 ## Implementation (Source Code & Execution)
 
 All files are included in this repository.
@@ -76,13 +68,49 @@ To run the dashboard:
 3. Click **Refresh**
 4. Use the slicers to explore departments, age, salary, performance, and attrition
 
-## Insights
+## Key Business Questions Explored
+The analysis addresses several critical HR questions:
 
-- Employees with lower salaries have higher attrition
-- Overtime is linked to increased attrition
-- Certain departments experience higher turnover rates
-- Performance is correlated with years at the company
-- Clear differences exist across age groups
+- What factors influence employees' work-life balance, even with overtime? 
+- What is the relationship between job satisfaction, promotions, and retention? 
+- How does workforce distribution differ across departments? 
+- Which demographic groups (age, gender, travel frequency) earn the highest income? 
+- How does education field and level impact attrition rates?
+
+## Key Insights
+
+### Compensation & Attrition
+* **Salary is Critical:** The lowest salary bracket (**Up to 5k**) shows the **highest attrition rate**. Conversely, retention is strongest in the highest bracket (**15k+**). Competitive compensation is key for stability.
+* **Average Hike:** The current average salary hike is **15%**.
+
+### Work-Life Balance (WLB) & Tenure
+* **Overtime Impact Varies:** A majority (**60.74%**) report an **Excellent WLB** despite working overtime. However, a significant minority (**23.38%**) report a **Poor WLB**, highlighting the need for personalized support.
+* **WLB Drives Tenure:** Employees with **Excellent WLB** stay in their current roles significantly longer (**up to 17 years**) than those with Poor WLB (**up to 11 years**).
+
+### Satisfaction vs. Income
+* **Sales vs. R&D:** The **Sales** department shows **High Income but Low Satisfaction** (due to high pressure). **R&D** shows **Moderate Income but High Satisfaction** (due to meaningful/creative work). **Salary alone does not determine satisfaction.**
+* **Demographics:** The highest monthly income is earned by **male employees aged 36-45**.
+
+### Education & Attrition
+* **Targeted Turnover:** Employees with Bachelor's or Master's degrees in **Life Sciences and Medical** fields exhibit the highest attrition rates.
+
+## Limitations
+
+* **Static Data:** Analysis is based on a fixed snapshot in time, limiting insights into dynamic changes.
+* **Subjectivity:** Data relies on self-reported measures (e.g., Job Satisfaction, WLB), which can be subjective.
+* **Correlation Not Causation:** Findings establish relationships (correlations), but not necessarily direct causal links.
+* **Limited Variables:** The dataset may not capture all external factors affecting HR outcomes (e.g., specific market conditions, competitive environment).
+
+## Strategic Improvements
+
+1.  **Retention Strategy:** Immediately reassess salary structures in the lowest compensation brackets (**Up to 5k**) to reduce turnover and enhance workforce stability.
+2.  **Job Satisfaction:** Focus on non-monetary motivators (purpose, recognition, work autonomy) in high-income, low-satisfaction departments (e.g., Sales) to ensure holistic engagement.
+3.  **WLB Intervention:** Develop personalized support and workload management for the **23.38%** of employees reporting a Poor WLB, recognizing that the impact of overtime varies by individual.
+4.  **Targeted Training:** Implement focused retention/development programs for high-attrition groups, specifically graduates from **Life Sciences and Medical** fields, to address their specific career needs.
+
+## Conclusion
+
+This data analysis provides a critical roadmap for proactive and strategic HR management. Implementing **data-driven policies** that address compensation gaps and provide **tailored support** for work-life balance is essential to significantly boost retention, satisfaction, and overall workforce stability.
 
 ## Contact
 
