@@ -112,7 +112,3 @@ The analysis addresses several critical HR questions:
 
 This data analysis provides a critical roadmap for proactive and strategic HR management. Implementing **data-driven policies** that address compensation gaps and provide **tailored support** for work-life balance is essential to significantly boost retention, satisfaction, and overall workforce stability.
 
-## Contact
-
-For any inquiries:  
-- Open an issue on GitHub
