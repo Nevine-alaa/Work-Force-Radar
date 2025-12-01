@@ -57,17 +57,6 @@ Includes columns such as:
 - GitHub
 - CSV Dataset
 
-## Implementation (Source Code & Execution)
-
-All files are included in this repository.
-
-To run the dashboard:
-
-1. Open `HR_Analytics.pbix`
-2. Make sure `HR Dataset – HR.csv` is in the same directory
-3. Click **Refresh**
-4. Use the slicers to explore departments, age, salary, performance, and attrition
-
 ## Key Business Questions Explored
 The analysis addresses several critical HR questions:
 
